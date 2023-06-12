@@ -1,0 +1,9 @@
+package com.example.crudapp.model;
+
+public class Product {
+    private Long id;
+    private String name;
+    private double price;
+
+    // Construtores, getters e setters aqui
+}
